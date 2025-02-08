@@ -34,7 +34,8 @@ REST API for managing library operations with JWT authentication and role-based 
 npm install
 ```
 
-3.. Create `.env` file using `.env.example` 4. Start development server:
+3. Create `.env` file using `.env.example`
+4. Start development server:
 
 ```bash
 npm run dev
