@@ -116,11 +116,9 @@ npm run build
 npm start
 ```
 
-**Key Decisions:**
+## TODO
 
-1. Used 3-layer architecture (controller-service-model)
-2. Separate route files for better maintainability
-3. Security best practices (helmet, rate limiting, xss protection)
-4. Environment configuration
-5. Error handling middleware
-6. Ready for testing infrastructure
+- Change to TypeScript because the error `SyntaxError: Invalid or unexpected token`
+- Feature Test
+- Complete the reguirements of Task 1 `https://github.com/Muhammad235/Backend-Engineering-projects?tab=readme-ov-file#task-1-rest-api-for-a-library-management-system`
+- Documentate with Swagger and Postman
